@@ -10,7 +10,7 @@ Welcome to the **Rock-Paper-Scissors** game repository! This project is a simple
 
 ## Demo
 
-Check out a live demo [here](#).
+Check out a live demo [here](https://fegue3.github.io/Rock-Paper-Scissors-JS/).
 
 ## Getting Started
 
@@ -91,9 +91,6 @@ Contributions are welcome! If you'd like to improve the game or fix a bug, feel 
 
 5. Open a Pull Request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
