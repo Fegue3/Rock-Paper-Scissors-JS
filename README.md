@@ -10,7 +10,7 @@ Welcome to the **Rock-Paper-Scissors** game repository! This project is a simple
 
 ## Demo
 
-Check out a live demo [here](https://fegue3.github.io/Rock-Paper-Scissors-JS/).
+Check out a live demo [here](https://fegue3.github.io/Rock-Paper-Scissors-Web/).
 
 ## Getting Started
 
